@@ -62,3 +62,14 @@ VALUES (
 
     DELETE FROM cars
 WHERE carID = 1;
+
+
+INSERT INTO cars(make,model,year,hyperlink,about,image) 
+VALUES (
+    "Koenigsegg",
+    "One:1",
+    "2014",
+    "https://www.auto-data.net/en/koenigsegg-one1-5.0-v8-1360hp-automatic-25244",
+    "The Koenigsegg One:1 is a high-performance sports car known for its exceptional speed and advanced technology.",
+    "https://www.auto-data.net/images/f61/Koenigsegg-One-1.jpg"
+    );
