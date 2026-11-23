@@ -73,3 +73,54 @@ VALUES (
     "The Koenigsegg One:1 is a high-performance sports car known for its exceptional speed and advanced technology.",
     "https://www.auto-data.net/images/f61/Koenigsegg-One-1.jpg"
     );
+
+INSERT INTO cars(make,model,year,hyperlink,about,image)
+   VALUES (
+    "nissan",
+    "navara",
+    "2019",
+    "https://www.auto-data.net/en/nissan-navara-iv-double-cab-facelift-2019-2.3-dci-190hp-4wd-38202",
+    "The Nissan Navara IV Double Cab facelift 2019 is a high-performance pickup truck known for its durability and advanced technology.",
+    "https://www.auto-data.net/images/f110/Nissan-Navara-IV-Double-Cab-facelift-2019.jpg"
+    );
+
+    INSERT INTO cars(make,model,year,hyperlink,about,image)
+   VALUES (
+    "mitsubishi",
+    "triton",
+    "2018",
+    "https://www.auto-data.net/en/mitsubishi-triton-v-2.5-di-d-178hp-4wd-automatic-36820",
+    "The Mitsubishi Triton V is a high-performance pickup truck known for its durability and advanced technology.",
+    "https://www.auto-data.net/images/f25/Mitsubishi-Triton-V.jpg"
+    );  
+
+    
+   INSERT INTO cars(make,model,year,hyperlink,about,image)
+   VALUES (
+    "Ford",
+    "Falcon",
+    "2014",
+    "https://www.auto-data.net/en/ford-falcon-fg-x-xr8-5.0-sc-v8-456hp-automatic-39416",
+    "The Ford Falcon FG X XR8 is a high-performance sedan known for its impressive acceleration and advanced technology.",
+    "https://www.auto-data.net/en/ford-falcon-fg-x-xr8-5.0-sc-v8-456hp-automatic-39416"
+    );  
+
+    INSERT INTO cars(make,model,year,hyperlink,about,image)
+   VALUES (
+    "Kia",
+    "Stinger",
+    "2020",
+    "https://www.auto-data.net/en/kia-stinger-facelift-2020-3.3-t-gdi-v6-373hp-awd-automatic-43275",
+    "The Kia Stinger facelift 2020 is a high-performance sedan known for its impressive acceleration and advanced technology.",
+    "https://www.auto-data.net/images/f83/Kia-Stinger-facelift-2020_1.jpg"
+    );  
+
+        INSERT INTO cars(make,model,year,hyperlink,about,image)
+   VALUES (
+    "Honda",
+    "Accord VII",
+    "2015",
+    "https://www.auto-data.net/en/honda-accord-vii-2.4-i-vtec-16v-type-s-190hp-12055",
+    "The Honda Accord VII is a high-performance sedan known for its v-tec engine and tuning capabilities.",
+    "https://www.auto-data.net/images/f78/Honda-Accord-VII.jpg"
+    );  
