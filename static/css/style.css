@@ -41,15 +41,15 @@ nav li {
 nav ul li a {
   text-decoration-line: none;
   text-transform: uppercase;
-  color: #393b45;
+  color: #ffffff;
 }
 
 nav ul li a:hover {
-  color: #14e6dd;
+  color: #ffffff;
 }
 
 nav h1 {
-  color: #106d69;
+  color: #ffffff;
   margin-bottom: 0.5rem;
 }
 
@@ -68,7 +68,7 @@ nav h1 {
   align-items: center;
   flex-direction: column;
   width: 17rem;
-  background: #fff;
+  background: #000000;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
   border-radius: 10px;
   margin: auto;
@@ -82,7 +82,7 @@ nav h1 {
 }
 
 .card-make {
-  color: #222;
+  color: #ffffff;
   font-weight: 700;
   text-transform: capitalize;
   font-size: 1.1rem;
@@ -95,6 +95,7 @@ nav h1 {
   white-space: nowrap;
   overflow: hidden;
   margin-bottom: 1rem;
+  color: white
 }
 
 
@@ -104,6 +105,7 @@ nav h1 {
   white-space: nowrap;
   overflow: hidden;
   margin-bottom: 1rem;
+  color: white
 }
 
 .card-about {
@@ -112,6 +114,7 @@ nav h1 {
   white-space: nowrap;
   overflow: hidden;
   margin-bottom: 1rem;
+  color: white
 }
 .btn {
   border: none;
@@ -123,15 +126,15 @@ nav h1 {
   margin: 0 1rem;
   padding: 0.25rem 2rem;
   transition: all 0.25s ease-in-out;
-  background: hsl(110, 21%, 93%);
-  color: hsl(141, 100%, 22%);
+  background: hsl(0, 100%, 50%);
+  color: hsl(0, 0%, 100%);
   margin-bottom: 1rem;
 }
 
 .btn:focus,
 .btn:hover {
   box-shadow: 1px 1px 2px rgba(21, 21, 21, 0.2);
-  background: hsl(111, 21%, 86%);
+  background: hsl(0, 0%, 0%);
 }
 
 .about-container {
